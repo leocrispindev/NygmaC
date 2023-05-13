@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Leonardo Crispin de Oliveira 👋
 
+<div>
+    <a href="">
+    <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NygmaC&show_icons=true&theme=dracula)">    
+</div>
 <!--
 **NygmaC/NygmaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
